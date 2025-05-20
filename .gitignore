@@ -21,6 +21,4 @@ yarn-error.log
 /.nova
 /.vscode
 /.zed
-/docker-nginx-php-mysql
-/docker-nginx-php-mysql/
-/docker-nginx-php-mysql/*
+/docker-nginx-php-mysql-master/
